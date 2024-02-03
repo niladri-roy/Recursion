@@ -2,7 +2,7 @@
 ## 1. What is recursion?
 
 ## Beginner level Questions on Recursion
-1. [Print 1 to n using recursion](C:\Users\ACER\Documents\GitHub\Recursion\Beginner\Print_1_to_N.cpp)
+1. [Print 1 to n using recursion](\Beginner\Print_1_to_N.cpp)
 2. [Print n to 1 using recursion]()
 3. [Print first n even numbers using recursion]()
 4. [Print first n odd numbers using recursion]()
