@@ -12,7 +12,7 @@
 
 ## Intermediate level Questions on Recursion
 1. [Find the factorial of a number using recursion](/Intermediate/Factorial_of_a_no.cpp)
-2. [Generate the Fibonacci series using recursion]()
+2. [Generate the Fibonacci series using recursion](/Intermediate/Fibonacci_series.cpp)
 3. [Print first n numbers of a given series using recursion]()
 4. [Calculate the power of a number for a given power using recursion]()
 5. [Find the sum of digits of a number using recursion]()
