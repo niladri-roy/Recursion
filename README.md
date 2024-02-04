@@ -9,12 +9,13 @@
 5. [Print first n prime numbers using recursion](/Beginner/Print_first_N_prime_nos.cpp)
 6. [Print first n composite numbers using recursion](/Beginner/Print_first_N_composite_nos.cpp)
 7. [Find the sum of first n natural numbers using recursion](/Beginner/Find_sum_of_First_N_nos.cpp)
+8. [Power of 2](/Beginner/Power_of_2.cpp)
 
 ## Intermediate level Questions on Recursion
 1. [Find the factorial of a number using recursion](/Intermediate/Factorial_of_a_no.cpp)
 2. [Generate the Fibonacci series using recursion](/Intermediate/Fibonacci_series.cpp)
 3. [Print first n numbers of a given series using recursion]()
-4. [Calculate the power of a number for a given power using recursion]()
+4. [Calculate the power of a number for a given power using recursion](/Intermediate/Power_of_No.cpp)
 5. [Find the sum of digits of a number using recursion]()
 6. [Find the reverse of a number using recursion]()
 
